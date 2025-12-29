@@ -12,7 +12,7 @@ class Config:
 
     # API配置
     API_HOST: str = os.getenv("API_HOST", "0.0.0.0")
-    API_PORT: int = int(os.getenv("API_PORT", "8000"))
+    API_PORT: int = int(os.getenv("API_PORT", "8080"))
 
     # 模型配置
     MODEL_PATH: str = os.getenv("MODEL_PATH", "/hy-tmp/deepseek-ocr-model/")
