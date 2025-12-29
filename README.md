@@ -108,7 +108,7 @@ curl -X POST "http://localhost:8000/image/max" \
   -H "Content-Type: application/json" \
   -H "X-API-Key: 1228" \
   -d '{
-    "image_url": "https://suxiaomin-tuil.oss-cn-wuhan-lr.aliyuncs.com/test.jpg",
+    "image_url": "https://suxiaomin-tuil.oss-cn-wuhan-lr.aliyuncs.com/typora/20251229114941250.jpg",
     "image_name": "虢国夫人游春图",
     "historical_context": "唐代人物画，张萱作品",
     "artistic_notes": "工笔重彩，线条流畅",

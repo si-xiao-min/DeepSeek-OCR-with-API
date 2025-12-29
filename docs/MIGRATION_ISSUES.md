@@ -505,9 +505,9 @@ kill -9 <PID>
 
 ### 相关文档
 
-- [README.md](./README.md) - 项目说明文档
-- [docs/DEPLOYMENT.md](./docs/DEPLOYMENT.md) - 部署指南
-- [docs/architecture.md](./docs/architecture.md) - 架构文档
+- [README.md](../README.md) - 项目说明文档
+- [docs/DEPLOYMENT.md](DEPLOYMENT.md) - 部署指南
+- [docs/architecture.md](architecture.md) - 架构文档
 
 ### 有用的命令
 
