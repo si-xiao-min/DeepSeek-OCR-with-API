@@ -1,0 +1,30 @@
+# Deep Learning Framework
+torch==2.6.0
+torchvision==0.21.0
+torchaudio==2.6.0
+
+# vLLM (注意: 需要根据 CUDA 版本从官方 releases 下载对应版本)
+# pip install vllm-0.8.5+cu118-cp38-abi3-manylinux1_x86_64.whl
+
+# Flash Attention
+flash-attn==2.7.3
+
+# FastAPI Web Service
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pydantic==2.9.0
+python-multipart==0.0.12
+
+# Async HTTP Client
+aiohttp==3.10.0
+
+# Image Processing
+pillow==11.0.0
+
+# Additional dependencies
+numpy
+scipy
+transformers
+huggingface-hub
+sentencepiece
+protobuf
